@@ -1,6 +1,6 @@
 # Retro Python Game
 
-Retro Python Game is a Python project that includes a game that revolves around the user controlling a character through a 2-D Platformer. The main sprite will come across many enemies and obstacles as they make their way through multiple levels. T
+Retro Python Game is a Python project that includes a game that revolves around the user controlling a character through a 2-D Platformer. The main sprite will come across many enemies and obstacles as they make their way through multiple levels. 
 
 ## Installation
 
